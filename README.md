@@ -1,2 +1,0 @@
-# MyAI
-AI implementations
